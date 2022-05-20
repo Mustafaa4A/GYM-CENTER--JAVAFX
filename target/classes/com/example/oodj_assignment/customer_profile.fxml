@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="478.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.oodj_assignment.CustomerProfileController">
+   <children>
+      <ImageView fitHeight="161.0" fitWidth="196.0" layoutX="308.0" layoutY="19.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@img/profile.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="lblUser" layoutX="363.0" layoutY="180.0" text="user">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="161.0" layoutY="233.0" text="Full name :">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="163.0" layoutY="267.0" text="Email :">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="161.0" layoutY="311.0" text="Phone Number :">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="163.0" layoutY="437.0" text="Address :">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="161.0" layoutY="357.0" text="Gender :">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="161.0" layoutY="396.0" text="Birth date :">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtName" editable="false" layoutX="330.0" layoutY="218.0" prefHeight="30.0" prefWidth="283.0" />
+      <TextField fx:id="txtPhone" editable="false" layoutX="330.0" layoutY="306.0" prefHeight="30.0" prefWidth="283.0" />
+      <TextField fx:id="txtGender" editable="false" layoutX="330.0" layoutY="352.0" prefHeight="30.0" prefWidth="283.0" />
+      <TextField fx:id="txtDate" editable="false" layoutX="330.0" layoutY="391.0" prefHeight="30.0" prefWidth="283.0" />
+      <TextField fx:id="txtAddress" editable="false" layoutX="330.0" layoutY="432.0" prefHeight="30.0" prefWidth="283.0" />
+      <TextField fx:id="txtEmail" editable="false" layoutX="330.0" layoutY="262.0" prefHeight="30.0" prefWidth="283.0" />
+      <Button layoutX="20.0" layoutY="19.0" mnemonicParsing="false" onAction="#back" prefHeight="20.0" prefWidth="20.0">
+         <graphic>
+            <ImageView fitHeight="43.0" fitWidth="101.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@img/back.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>

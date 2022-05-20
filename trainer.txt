@@ -1,0 +1,5 @@
+001|Adam Abdi|Male|ali45@fmail.com|67676|Hodan
+002|Morgan Abdi|Male|morgan67@fmail.com|67676|Huriwaa
+003|Mahad Ali|Male|mahdi@gmail.com|778888|Mogadishu
+004|Salim Ahmed|Male|salim@gmail.com|2345432|Karan
+005|Akram Ali|Male|akram23@gmail.com|77654|Baidoa

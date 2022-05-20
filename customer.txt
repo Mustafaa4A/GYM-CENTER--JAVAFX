@@ -1,0 +1,8 @@
+001|Ali Mohamed|Male|ali45@gmail.com|67676|16-05-1999|Hodan|ali|123
+002|Ibrahim Mohamed|Male|ibra@gmail.com|76544|16-05-2001|Wadajir|ibra|123
+003|Fatima Ibrahim|Female|fatima@gmail.com|1211|16-05-2002|karan|fatima|123
+004|Faiza Ali|Female|faaiza@gmail.com|77778|16-05-2004|Hodan|faiza|123
+005|Suleiman Anoy|Male|salman@gmail.com|6666|2018-05-10|Kuala Lampur|salman|123
+006|Samira Hassan|Female|samiraa@gmail.com|666222|2003-05-22|Wadajir|samira|123
+007|Ascad Abubakar|Male|ascad@gmail.com|7666667|2001-05-18|Howlwadaag|ascad|12345
+008|Adam Warssame|Male|inawarsame32@gmailcom|267776|2002-05-02|Kaxda|adam|123
